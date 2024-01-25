@@ -24,7 +24,7 @@ const imageAltText = "Quantum Formula Blueboard background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I am tech enthuist having focus on Azure Clound Computing, Azure Quantum, AI, ML, Python and Quant Research";
+  "I am tech enthusiast having focus on Quantum Computing, Cloud Computing, AI, ML, Python programming and Quant Research.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
