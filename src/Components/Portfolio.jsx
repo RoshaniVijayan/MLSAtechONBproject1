@@ -31,15 +31,15 @@ const imageAltText = "Quantum and other portfolio";
  */
 const projectList = [
   {
-    title: "Freshwater potability assessment and quality prediction",
+    title: "Freshwater potability assessment and its quality prediction",
     description:
-      "This is Machine Learning model, which can predict wheter water is potable or not. Developed using Python on Jyupiter Notebook",
+      "This is Machine Learning model, which can predict whether the given sample of water is potable or not. Developed using Python on Jyupiter Notebook",
     url: " https://github.com/RoshaniVijayan/Quality-of-Fresh-Water-prediction/tree/main",
   },
   {
     title: "Heart Failure Prediction using Machine Learning",
     description:
-      "Predicting heart disease and failure using machine learning ",
+      "Heart disease and its Failure Prediction using machine learning ",
     url: "https://github.com/RoshaniVijayan/Heart-Failure-Prediction",
   },
   {
