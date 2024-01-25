@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/portfolio.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Quantum and other portfolio";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Freshwater potability assessment and quality prediction",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This is Machine Learning model, which can predict wheter water is potable or not. Developed using Python on Jyupiter Notebook",
+    url: " https://github.com/RoshaniVijayan/Quality-of-Fresh-Water-prediction/tree/main",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Heart Failure Prediction using Machine Learning",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Predicting heart disease and failure using machine learning ",
+    url: "https://github.com/RoshaniVijayan/Heart-Failure-Prediction",
   },
   {
-    title: "My Resume Site",
+    title: "My Personal Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created my personal website and deployed to GitHub pages. Includes my experience and abilities.",
+    url: "https://roshanivijayan.github.io/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Budget Tracker using Python",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "The Budget Tracker is a simple Python program designed to help users manage and track their expenses across different categories.",
+    url: "https://github.com/RoshaniVijayan/BudgetTracker",
   },
 ];
 
